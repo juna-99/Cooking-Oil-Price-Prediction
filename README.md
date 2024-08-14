@@ -2,7 +2,7 @@
 
 ### Overview
 - This study explores the application of SARIMA and LSTM models for forecasting cooking oil prices across various Malaysian states, including Kuala Lumpur and Johor. By leveraging historical price data from 2022-2023 provided by the Ministry of Domestic Trade and Consumer Affairs (KPDN) , we aim to provide accurate and reliable forecasts that can aid stakeholders in decision-making processes.
-- 
+  
 ### Features
 - **Preliminary analysis:** To understand the dataset's structure, format, and types of variables. The `.info()` function provides detailed information about each attribute in the dataset,including datatype, number of rows, and count of null values. 
 - **Data Cleaning:** To ensures dataset accuracy and consistency by identifying and handling missing values, and removing unnecessary rows and columns. 
@@ -15,6 +15,8 @@
 
 ### Data
 - The data is downloaded from the Malaysia Open Data Portal at (https://data.gov.my/data-catalogue)
+
+  
   
 
 ![Data Overview](https://github.com/juna-99/Cooking-Oil-Price-Prediction/blob/bf0310482da32a530867a1c4feb16993f9ae2ac6/PowerBI%20img/Screenshot%202024-08-13%20225053.png)
